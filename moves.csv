@@ -1,0 +1,33 @@
+name,type,dmg,cooldown,cost,speed
+Ember,Fire,8,0,5,5
+Fire Wheel,Fire,13,0,10,4
+Flamethrower,Fire,22,1,15,3
+Bubble,Water,8,0,5,5
+Water Gun,Water,12,0,10,4
+Hydro Pump,Water,21,1,15,3
+Leaf Cut,Grass,7,0,5,6
+Branch Hit,Grass,14,0,10,5
+Vine Storm,Grass,22,1,15,5
+Tackle,Normal,10,0,5,5
+Mega Punch,Normal,15,1,10,4
+Super Kick,Normal,23,1,15,4
+Thunderbolt,Electric,17,1,15,4
+Electric Shock,Electric,12,0,10,6
+Spark,Electric,9,0,5,7
+Zap Cannon,Electric,25,2,20,5
+Rock Tumble,Ground,9,0,5,3
+Rock Throw,Ground,14,0,10,3
+Earthquake,Ground,24,1,20,3
+Sand Attack,Ground,8,0,5,5
+Frostbite,Ice,9,0,5,4
+Icicle Crash,Ice,15,0,10,4
+Avalanche,Ice,24,1,20,3
+Aurora Beam,Ice,20,0,20,4
+Confusion,Psychic,10,0,10,3
+Hypnosis,Psychic,0,0,10,1
+Psybeam,Psychic,12,0,10,3
+Psycho Boom,Psychich,20,0,15,4
+Poison Dart,Poison,6,0,5,5
+Acid,Poison,9,0,10,3
+Poison Gas,Poison,14,0,15,5
+Toxic Spores,Poison,14,0,15,5
